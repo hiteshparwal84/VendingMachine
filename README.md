@@ -87,7 +87,7 @@ link: https://github.com/hiteshparwal84/VendingMachine/blob/master/VendingMachin
 
 <h3> UMl class Diagrame Attached</h3></br>
 
-link: 
+link: https://github.com/hiteshparwal84/VendingMachine/blob/master/UMLClassDiagrameVendingMachine.jpg
 
 
    
