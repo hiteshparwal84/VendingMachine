@@ -1,7 +1,7 @@
 # VendingMachine
 The project Solving the vending machine Use case</br>
 
-<strong>Note: Currency nickle, dime, quarter, cent is converted to some price<strong></br>  
+<strong>Note: Currency nickle, dime, quarter, cent is converted to some price</strong></br>  
      "nickle": 10 Rs</br>  
 		 "dime": 20Rs</br>  
 		 "quarter": 50RS</br>  
@@ -59,7 +59,7 @@ Below is the List of the API</br>
     "coinType": "dime"</br>
   }</br>
   
-  Response Body: <strong>If Order is placed Successfully and will also show remaning change if any otherwise will show 0</strong>I</br>
+  Response Body: <strong>If Order is placed Successfully and will also show remaning change if any otherwise will show 0</strong></br>
   {</br>
     "dispatchProduct": "Cold-drink",</br>
     "change": [</br>
